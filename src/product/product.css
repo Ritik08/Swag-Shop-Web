@@ -1,0 +1,10 @@
+.product {
+        width:15rem;
+        }
+
+.product img{
+        max-height: 10rem;
+        }
+.card-title,.card-text{
+        color: #1d2124;
+}
